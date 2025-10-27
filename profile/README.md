@@ -12,8 +12,8 @@
     <a href="https://www.cpik.kr/brand"><strong>자세히 보기 »</strong></a>
     <br />
     <br />
-    <a href="https://www.cpik.kr/brand">홈페이지</a>
+    <a href="https://www.cpik.kr/brand">브랜드</a>
     ·
-    <a href="https://www.cpik.kr/creator">크리에이터 보기</a>
+    <a href="https://www.cpik.kr/creator">크리에이터</a>
 
 </p>
